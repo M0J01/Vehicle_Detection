@@ -62,7 +62,7 @@ In order to filter out false possitives and diminish the effects of periodic fal
 
 #### Result
 
-The final results of the pipeline can be viewed in the following video (click on [this link](./Vehicle_detection.mp4) if the video is not loading)
+The final results of the pipeline can be viewed in the following video (click on [this link](./Vehicle_detection.mp4) and download if the video is not loading)
 
 [![Video](./Vehicle_detection.mp4)](./Vehicle_detection.mp4)
 
